@@ -1,0 +1,10 @@
+<script type="text/javascript">
+	atOptions = {
+		'key' : '65cb7bc4a4aa37e7fb310560d992551d',
+		'format' : 'iframe',
+		'height' : 90,
+		'width' : 728,
+		'params' : {}
+	};
+	document.write('<scr' + 'ipt type="text/javascript" src="http' + (location.protocol === 'https:' ? 's' : '') + '://www.effectivedisplaycontent.com/65cb7bc4a4aa37e7fb310560d992551d/invoke.js"></scr' + 'ipt>');
+</script>
